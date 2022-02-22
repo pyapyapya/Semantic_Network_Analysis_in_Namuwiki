@@ -1,5 +1,5 @@
-/data
-/result
+data/
+result/
 
 utils.py
 logger.py
